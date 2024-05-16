@@ -1,4 +1,5 @@
 # stack_overflow
+Stack-Overflow clone using MERN stack( MongoDB, ExpressJS, ReactJS, NodeJS)
  
 • Developed a full-stack web application using the MERN stack, featuring ReactJS for the frontend, Node.js and
 ExpressJS for the backend, and MongoDB for database management.
